@@ -22,4 +22,4 @@ Unix/Mac:
 
    > ./run.sh [TYPE]
 
-Where [TYPE] is either 'html', 'json', or 'text'.
+Where [TYPE] is either 'html', 'json', or 'text'. Open your browser to [http://localhost](http://localhost).
